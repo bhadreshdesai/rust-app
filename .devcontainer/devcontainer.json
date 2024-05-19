@@ -11,7 +11,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"huntertran.auto-markdown-toc"
+				"huntertran.auto-markdown-toc",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
